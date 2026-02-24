@@ -1,4 +1,4 @@
-# Express REST Demo (Beginner Guide)
+# Express REST Demo
 
 This project is a tiny Express server with a simple in‑memory to‑do API. It also serves a small web page that talks to the API.
 
@@ -49,7 +49,6 @@ You can try the API directly in the browser or with curl:
 curl http://localhost:3000/api/items
 ```
 
-## Notes for Beginners
+## Notes
 - The server runs on port `3000` by default.
 - You can change the port with the `PORT` environment variable.
-- This is a learning project, so everything is kept simple and in one file.
